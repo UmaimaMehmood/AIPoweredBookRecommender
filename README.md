@@ -8,65 +8,65 @@ An intelligent book recommendation system powered by AI and NLP techniques. This
 
 Preprocessed raw text data for better downstream tasks.
 
-📒 Code: data-exploration.ipynb
+ Code: data-exploration.ipynb
 
-🔎 Semantic (Vector) Search
+ Semantic (Vector) Search
 
 Built a vector database to find books similar to a natural language query.
 
 Example: "a book about a person seeking revenge" → returns similar recommendations.
 
-📒 Code: vector-search.ipynb
+ Code: vector-search.ipynb
 
-📖 Text Classification (Fiction / Non-Fiction)
+ Text Classification (Fiction / Non-Fiction)
 
 Classified books using zero-shot classification with LLMs.
 
 Enables users to filter books by type.
 
-📒 Code: text-classification.ipynb
+ Code: text-classification.ipynb
 
-😊 Sentiment & Emotion Analysis
+ Sentiment & Emotion Analysis
 
 Extracted emotions and tone (suspenseful, joyful, sad, etc.) from book descriptions.
 
 Allows users to sort by mood.
 
-📒 Code: sentiment-analysis.ipynb
+ Code: sentiment-analysis.ipynb
 
-🌐 Web Application with Gradio
+ Web Application with Gradio
 
 Built an interactive web app for users to search & get recommendations.
 
-📂 Code: gradio-dashboard.py
+Code: gradio-dashboard.py
 
-🛠️ Tech Stack
+TECH STACK
 
 Programming Language: Python 3.11
 
 Libraries & Frameworks:
 
-🐼 Pandas
+ Pandas
 
-📊 Matplotlib
+ Matplotlib
 
-🎨 Seaborn
+ Seaborn
 
-🔑 python-dotenv
+ python-dotenv
 
-🤖 Transformers
+ Transformers
 
-🌐 Gradio
+ Gradio
 
-🧠 LangChain Community
+ LangChain Community
 
-🗄️ Chroma
+ Chroma
 
-🐍 Jupyter Notebook
+ Jupyter Notebook
 
-⚡ ipywidgets
+ ipywidgets
 
-📥 kagglehub
+ kagglehub
 
 
 📊 Data
