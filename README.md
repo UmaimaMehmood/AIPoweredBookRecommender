@@ -42,7 +42,7 @@ Code: gradio-dashboard.py
 
 TECH STACK
 
-Programming Language: Python 3.11
+Programming Language: Python 
 
 Libraries & Frameworks:
 
